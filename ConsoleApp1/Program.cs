@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, changed from github!");
+            Console.WriteLine("Hello, added test-project branch!");
 
         }
     }
